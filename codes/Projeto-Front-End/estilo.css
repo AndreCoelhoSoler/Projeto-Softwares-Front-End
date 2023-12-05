@@ -1,0 +1,218 @@
+body{
+    background-image: linear-gradient(to right, blue, white );
+}
+
+.container{
+    width: 100%;
+    height: 200px;
+    align-items: center;
+    text-align: center;
+}
+
+.primeiro-titulo{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    padding: 30px;
+    color: rgb(12, 85, 85); 
+    margin-right: 7em;
+}
+
+
+.titulo-melhores-softwares{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    font-style: normal;
+    padding: 30px;
+    color: rgb(12, 85, 85); 
+    margin-right: 7em;
+}
+
+.softwares{
+    width: 100%;
+    height: 900px;
+    padding: 40px;
+}
+
+.tabela-softwares{
+    width: 50%;
+    height: 500px;
+    text-align: center;
+    margin-left: 20em;
+}
+
+.segundo-titulo{
+    margin-left: 20em;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 5em;
+    
+    
+    
+}
+
+.adobe{
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+    
+}
+
+.adobe-descricao{
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulo-office{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 5em;
+}
+
+.office{
+    width: 350px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.botao{
+    background-color:bisque;
+    color: blue;
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    width: 18%;
+    height: 7%;
+    border-radius: 10px;
+}
+
+.titulo-google-workspace{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 5em;
+    padding: 50px;
+}
+
+.google-workspace{
+    width: 400;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.google-workspace-descricao{
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulo-autocad{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 5em;
+    margin-top: 10em;
+}
+
+.autocad {
+    width: 400;
+    height: 300px;
+    border-radius: 20px;
+}
+
+.autocad-descricao{
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.solidworks{
+    width: 400;
+    height: 300px;
+    border-radius: 20px;
+    padding: 1.5em;
+    
+}
+
+.titulo-vsc{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 5em;
+    margin-top: 10em;
+}
+
+.imagem-vsc{
+    width: 400;
+    height: 300px;
+    border-radius: 20px; 
+}
+
+.vsc-descricao{
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulo-tensor-py{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 5em;
+    margin-top: 10em;
+}
+
+.imagem-tensor-py{
+    width: 400;
+    height: 300px;
+    border-radius: 20px; 
+}
+
+.tensor-py-descricao{
+    padding: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.titulo-salesforce-hubspot{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    line-height: 5em;
+    
+    
+}
+
+.imagem-salesforce-hubspot{
+    width: 300;
+    height: 200px;
+    border-radius: 20px; 
+}
+
+.salesforce-hubspot-descricao{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+footer{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    line-height: 5em;
+    padding: 30px;
+}
+
